@@ -1,0 +1,3 @@
+# Terraform Fireall Manager Demo 01
+
+This example looks to solve the 500 rule limit that some organizations face when dealing with large security zones with many CIDR ranges. This examples demonstrates how you can take a list of CIDR ranges and chunk it into workable groups for Security Group creation.  Additionally these Security Groups are then implemented in Firewall Manger to provide a centralized management and reporting mechanism.
